@@ -532,7 +532,10 @@ article {
 * overflow 非 visible
 
 如希望使用更小副作用的清除浮动方法，参见 [A new micro clearfix hack](http://nicolasgallagher.com/micro-clearfix-hack/) 一文。
+
 公用 clearfix  样式
+
+```css
 .CLEARFIX {
   zoom: 1;
 }
@@ -544,7 +547,7 @@ article {
   visibility: hidden;
   overflow: hidden;
 }
-
+```
 
 ### 3.5 !important
 
