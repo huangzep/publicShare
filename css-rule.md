@@ -809,15 +809,6 @@ $button-default-color: #FFC000;
 $button-hover-color: #FED762;
 $button-press-color: #DF9D04;
 $login-icon-color: #979797;
-
-/** global font size */
-$smallest-font: 14px;
-$smaller-font: 16px;
-$small-font: 24px;
-$default-font: 28px;
-$large-font: 34px;
-$larger-font: 36px;
-$title-font: 32px;
 ```
 
 
