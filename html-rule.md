@@ -1,4 +1,6 @@
 
+### 参考来源：https://github.com/ecomfe/spec
+
 # HTML编码规范
 
 
